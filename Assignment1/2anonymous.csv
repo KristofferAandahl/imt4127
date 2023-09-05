@@ -1,11 +1,11 @@
-Name, Age, Gender, State of domicile, Religion, Disease
-*, 25-30, Female, Tamil Nadu, *, *
-*, 20-25, Female, Kerala,*,*
-*, 25-30, Female, Tamil Nadu, *, *
-*, 25-30, Male, Karnataka,*,*
-*, 20-25, Female, Kerala,*,*
-*, 20-25, Male, Karnataka,*,*
-*, 15-20, Male, Kerala,*,*
-*, 25-30, Male, Karnataka,*,*
-*, 15-20, Male, Kerala, Christian,*
-*, 15-20, Male, Kerala, Christian,*
+Name,Age,Gender,State of domicile,Religion,Disease
+*,20-30,Female,Tamil Nadu,*,*
+*,20-30,Female,Kerala,*,*
+*,20-30,Female,Tamil Nadu,*,*
+*,20-30,Male,Karnataka,*,*
+*,20-30,Female,Kerala,*,*
+*,20-30,Male,Karnataka,*,*
+*,10-20,Male,Kerala,*,*
+*,20-30,Male,Karnataka,*,*
+*,10-20,Male,Kerala,Christian,*
+*,10-20,Male,Kerala,Christian,*

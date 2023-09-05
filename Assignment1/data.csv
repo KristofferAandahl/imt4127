@@ -1,11 +1,11 @@
-Name, Age, Gender, Height, Weight, State of domicile, Religion, Disease
-Ramsha, 30, Female, 165 cm, 72 kg, Tamil Nadu, Hindu, Cancer
-Yadu, 24, Female, 162 cm, 70 kg, Kerala, Hindu, Viral infection
-Salima, 28, Female, 170 cm, 68 kg, Tamil Nadu, Muslim, Tuberculosis
-Sunny, 27, Male, 170 cm, 75 kg, Karnataka, Parsi, No illness
-Joan, 24, Female, 165 cm, 71 kg, Kerala, Christian, Heart-related
-Bahuksana, 23, Male, 160 cm, 69 kg, Karnataka, Buddhist, Tuberculosis
-Rambha, 19, Male, 167 cm, 85 kg, Kerala, Hindu, Cancer
-Kishor, 29, Male, 180 cm, 81 kg, Karnataka, Hindu, Heart-related
-Johnson, 17, Male, 175 cm, 79 kg, Kerala, Christian, Heart-related
-John, 19, Male, 169 cm, 82 kg, Kerala, Christian, Viral infection
+Name,Age,Gender,State of domicile,Religion,Disease
+Ramsha,30,Female,Tamil Nadu,Hindu,Cancer
+Yadu,24,Female,Kerala,Hindu,Viral infection
+Salima,28,Female,Tamil Nadu,Muslim,Tuberculosis
+Sunny,27,Male,Karnataka,Parsi,No illness
+Joan,24,Female,Kerala,Christian,Heart-related
+Bahuksana,23,Male,Karnataka,Buddhist,Tuberculosis
+Rambha,19,Male,Kerala,Hindu,Cancer
+Kishor,29,Male,Karnataka,Hindu,Heart-related
+Johnson,17,Male,Kerala,Christian,Heart-related
+John,19,Male,Kerala,Christian,Viral infection
